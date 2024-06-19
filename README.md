@@ -18,7 +18,7 @@ WPTAS is a Python script designed to automate various steps involved in Wi-Fi pe
    git clone https://github.com/WhoIsEtomica/WPTAS.git
    cd WPTAS
 
-Usage
+## Usage
 Ensure your Wi-Fi adapter is plugged in and recognized by Kali Linux.
 
 Run the script as root (administrator):
@@ -32,7 +32,7 @@ Perform deauthentication attacks on desired clients.
 Provide the path to your wordlist file for password cracking.
 Monitor the output for progress and results.
 
-Disclaimer
+## Disclaimer
 This script is intended for educational and authorized penetration testing purposes only. Misuse of this tool on networks without explicit permission is illegal and unethical. Use it responsibly and at your own risk.
 
 Contributing
